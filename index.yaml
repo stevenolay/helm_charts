@@ -2,12 +2,12 @@ apiVersion: v1
 entries:
   auto-deploy-app:
   - apiVersion: v1
-    created: "2019-09-27T17:50:13.108264-04:00"
+    created: "2019-09-27T18:25:13.989199-04:00"
     description: GitLab's Auto-deploy Helm Chart
     digest: fe08bdb0b942dd849d3276a8ba95f4d44222e1bda05960130ab5b73a547c7010
     icon: https://gitlab.com/gitlab-com/gitlab-artwork/raw/master/logo/logo-square.png
     name: auto-deploy-app
     urls:
-    - http://thread-helm-charts.s3-website-us-east-1.amazonaws.com/auto-deploy-app-0.2.9.tgz
+    - https://stevenolay.github.io/helm_charts/auto-deploy-app-0.2.9.tgz
     version: 0.2.9
-generated: "2019-09-27T17:50:13.10676-04:00"
+generated: "2019-09-27T18:25:13.987547-04:00"
