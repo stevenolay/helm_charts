@@ -8,6 +8,6 @@ entries:
     icon: https://gitlab.com/gitlab-com/gitlab-artwork/raw/master/logo/logo-square.png
     name: auto-deploy-app
     urls:
-    - https://stevenolay.github.io/helm_charts/auto-deploy-app-0.2.9.tgz
+    - https://stevenolay.github.io/helm_charts/auto-deploy-app.tgz
     version: 0.2.9
 generated: "2019-09-27T18:25:13.987547-04:00"
