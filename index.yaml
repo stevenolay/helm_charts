@@ -2,12 +2,21 @@ apiVersion: v1
 entries:
   auto-deploy-app:
   - apiVersion: v1
-    created: "2019-09-27T18:25:13.989199-04:00"
+    created: "2019-09-28T08:31:45.807932-04:00"
     description: GitLab's Auto-deploy Helm Chart
-    digest: fe08bdb0b942dd849d3276a8ba95f4d44222e1bda05960130ab5b73a547c7010
+    digest: b9f26d111917429b41fd7beab8b782dd700012795e6d68108a302fb32ce27beb
     icon: https://gitlab.com/gitlab-com/gitlab-artwork/raw/master/logo/logo-square.png
     name: auto-deploy-app
     urls:
     - https://stevenolay.github.io/helm_charts/auto-deploy-app.tgz
     version: 0.2.9
-generated: "2019-09-27T18:25:13.987547-04:00"
+  celery-deploy:
+  - apiVersion: v1
+    created: "2019-09-28T08:31:45.809139-04:00"
+    description: Threads's Celery Deploy Helm Chart
+    digest: 58a95d963921f8088d0e2c48ccba7408f323839a6e5841ba030debc12caa8384
+    name: celery-deploy
+    urls:
+    - https://stevenolay.github.io/helm_charts/celery-deploy.tgz
+    version: 0.0.1
+generated: "2019-09-28T08:31:45.803431-04:00"
